@@ -36,3 +36,6 @@ ________________________________________________________________________________
 - Comandos: ls - vai mostrar o que está dentro do repositório.
 - cd - vai fazer a inclusão da pasta no código (choose directory - está modificando o diretório).
 ______________________________________________________________________________________________________________________________________________________________________________________________
+
+#### Como fazer um Push do Codespace para o GitHub (passo a passo):
+
