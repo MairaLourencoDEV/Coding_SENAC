@@ -37,5 +37,5 @@ ________________________________________________________________________________
 - cd - vai fazer a inclusão da pasta no código (choose directory - está modificando o diretório).
 ______________________________________________________________________________________________________________________________________________________________________________________________
 
-#### Como fazer um Push do Codespace para o GitHub (passo a passo):
+#### Como fazer um Push do Codespace para o GitHub (passo a passo)
 
